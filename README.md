@@ -7,7 +7,8 @@ This project analyzes employee attrition using the IBM HR Analytics dataset. The
 
 ## Dashboard Preview
 
-"C:\Users\USHA\Pictures\Screenshots\Screenshot 2026-07-07 164959.png"
+<img width="958" height="542" alt="Screenshot 2026-07-07 164959" src="https://github.com/user-attachments/assets/e79859d3-e664-4ab8-9abc-673ad32dee68" />
+
 
 ## Features
 
